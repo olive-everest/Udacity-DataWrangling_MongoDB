@@ -1,4 +1,4 @@
-# Udacity-DataWrangling_MongoDB
+# Udacity - Data Wrangling with MongoDB
 
 Udacity Data Wrangling with MongoDB course files
 
